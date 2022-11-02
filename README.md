@@ -21,7 +21,7 @@
    
   <a href="https://www.linkedin.com/in/glaucy-silva-546974134" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
-<a href="https://scratch.mit.edu/projects/612885036" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Scratch&color=<#e88030>" target="_blank"></a>
+<a href="https://scratch.mit.edu/projects/612885036" target="_blank"><img src="https://img.shields.io/badge/Game-Scratch-orange" target="_blank"></a>
  
   ![Animação de cobra](https://github.com/Glauu/Glauu/blob/output/github-contribution-grid-snake.svg)
 
