@@ -1,3 +1,4 @@
+ ![GitHub followers](https://img.shields.io/github/followers/glauu?style=social)
  <div>
   <a href="https://www.instagram.com/GLAUBATERA" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Glauu&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
